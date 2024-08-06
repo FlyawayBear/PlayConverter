@@ -4,7 +4,7 @@ This is a tool to convert Esign / Scarlet / Other IPA repos to be compatible wit
 
 ## Installation
 
-You can either try our demo [here](https://example.com) or set up PlayConverter locally by following these steps
+You can either try our demo [here](https://repo.cutie.host/) or set up PlayConverter locally by following these steps
 
 ```bash
 git clone https://github.com/FlyawayBear/PlayConverter
