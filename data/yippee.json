@@ -1,0 +1,660 @@
+[
+  {
+    "bundleID": "fyi.zxcvbn.dummy",
+    "name": "notice",
+    "version": "1.0",
+    "itunesLookup": "",
+    "link": "https://files.horizon.pics/4d828c2c-0f1f-4060-8408-7c60f4b1dedd?a=466&mime1=image&mime2=png"
+  },
+  {
+    "bundleID": "com.firecore.infuse",
+    "name": "InfusePlus",
+    "version": "7.7.6",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/sd3mwvwfs84b"
+  },
+  {
+    "bundleID": "com.hammerandchisel.discord",
+    "name": "Pyoncord",
+    "version": "231.0",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/65t02pzcnsql"
+  },
+  {
+    "bundleID": "tv.twitch",
+    "name": "TwitchAdBlock",
+    "version": "19.7",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/p1jvsbnb8f5v"
+  },
+  {
+    "bundleID": "com.atebits.Tweetie2",
+    "name": "BHTwitter",
+    "version": "10.43",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/tit3a7fb9pjr"
+  },
+  {
+    "bundleID": "com.firecore.infuse",
+    "name": "InfusePlus",
+    "version": "7.7.6",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/v0hi8fc5hpla"
+  },
+  {
+    "bundleID": "com.spotify.client",
+    "name": "EeveeSpotify",
+    "version": "8.9.42",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/b5dtqyhug09s"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "YTLitePlus",
+    "version": "19.21.2",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/zj2app064hns"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "uYouEnhanced",
+    "version": "19.21.2",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/y31d3dizs17b"
+  },
+  {
+    "bundleID": "com.vk.vkclient",
+    "name": "VKReborn",
+    "version": "8.80",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/e9gqxmceiwg2"
+  },
+  {
+    "bundleID": "com.endel.endel",
+    "name": "EndelLifetime",
+    "version": "4.45.5",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/z4hvaikb0wz1"
+  },
+  {
+    "bundleID": "tv.twitch",
+    "name": "TwitchAdBlock",
+    "version": "19.6.2",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/01kulrj7a48d"
+  },
+  {
+    "bundleID": "com.burbn.instagram",
+    "name": "InstaMulti",
+    "version": "330.0.3",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/daum8i59bwqt"
+  },
+  {
+    "bundleID": "com.facebook.Facebook",
+    "name": "FacebookWolf",
+    "version": "465.0.1",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/akcjmj88ixe4"
+  },
+  {
+    "bundleID": "com.atebits.Tweetie2",
+    "name": "BHTwitter",
+    "version": "10.42",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/4j24g4jcc554"
+  },
+  {
+    "bundleID": "com.endel.endel",
+    "name": "EndelLifetime",
+    "version": "4.41.130",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/d66drjb743zb"
+  },
+  {
+    "bundleID": "com.hammerandchisel.discord",
+    "name": "Pyoncord",
+    "version": "230.0",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/iji7drsg1eny"
+  },
+  {
+    "bundleID": "com.google.ios.youtubemusic",
+    "name": "YTMusicUltimate",
+    "version": "7.02.2",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/dht4glee4zh9"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "YTLitePlus",
+    "version": "19.20.2",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/60cw5v7daxd3"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "uYouEnhanced",
+    "version": "19.20.2",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/yzwit4x10i5f"
+  },
+  {
+    "bundleID": "tv.twitch",
+    "name": "TwitchAdBlock",
+    "version": "19.6",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/zkyj7uok7mir"
+  },
+  {
+    "bundleID": "com.facebook.Facebook",
+    "name": "FacebookWolf",
+    "version": "464.0.0",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/lullovbejmt3"
+  },
+  {
+    "bundleID": "com.vk.vkclient",
+    "name": "VKReborn",
+    "version": "8.79",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/a2b05iau4t6v"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "YTLitePlus",
+    "version": "19.19.7",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/1rctzx26walj"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "uYouEnhanced",
+    "version": "19.19.7",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/b5v37yoimtl4"
+  },
+  {
+    "bundleID": "com.atebits.Tweetie2",
+    "name": "BHTwitter",
+    "version": "10.41",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/ui8bmgdlo5nx"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "YTLitePlus",
+    "version": "19.19.5",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/tkfri7azfbh7"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "uYouEnhanced",
+    "version": "19.19.5",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/slja8cy1bcty"
+  },
+  {
+    "bundleID": "com.hammerandchisel.discord",
+    "name": "Pyoncord",
+    "version": "229.0",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/pklkskpfuu5o"
+  },
+  {
+    "bundleID": "nologs.xyz.yyyue.esign",
+    "name": "ESignNoLogs",
+    "version": "5.0.0",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/n1yb5e30y4hp"
+  },
+  {
+    "bundleID": "com.burbn.instagram",
+    "name": "InstaMulti",
+    "version": "330.0.3",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/0jvyywj5yhra"
+  },
+  {
+    "bundleID": "com.elgato.streamdeck-ios",
+    "name": "ElgatoSDLifetime",
+    "version": "2.2.0",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/3l30i9zi20pa"
+  },
+  {
+    "bundleID": "com.vk.vkclient",
+    "name": "VKReborn",
+    "version": "8.78",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/ge8ad8ep5opi"
+  },
+  {
+    "bundleID": "com.facebook.Facebook",
+    "name": "FacebookWolf",
+    "version": "463.0.4",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/pg4p649emlnq"
+  },
+  {
+    "bundleID": "tv.twitch",
+    "name": "TwitchAdBlock",
+    "version": "19.4",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/iyn2257pm68v"
+  },
+  {
+    "bundleID": "com.atebits.Tweetie2",
+    "name": "BHTwitter",
+    "version": "10.40",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/glw9r6ao77vs"
+  },
+  {
+    "bundleID": "com.spotify.client",
+    "name": "EeveeSpotify",
+    "version": "8.9.38",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/2jgec73lj9zo"
+  },
+  {
+    "bundleID": "com.hammerandchisel.discord",
+    "name": "Pyoncord",
+    "version": "228.1",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/lvdhv7a7ojai"
+  },
+  {
+    "bundleID": "com.hammerandchisel.discord",
+    "name": "Pyoncord",
+    "version": "228.0",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/bd190n5eid23"
+  },
+  {
+    "bundleID": "com.firecore.infuse",
+    "name": "InfusePlus",
+    "version": "7.7.5",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/1zee7r8swszx"
+  },
+  {
+    "bundleID": "com.burbn.instagram",
+    "name": "InstaMulti",
+    "version": "330.0.3",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/4yjdtqbd09p5"
+  },
+  {
+    "bundleID": "jp.ne.ibis.ibisPaintX",
+    "name": "ibisPaintPrime",
+    "version": "12.1.0",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/ew7fcpt4f6tm"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "YTLitePlus",
+    "version": "19.18.2",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/88uyc0uqw0s6"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "uYouEnhanced",
+    "version": "19.18.2",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/xbqymao6sx4b"
+  },
+  {
+    "bundleID": "com.google.ios.youtubemusic",
+    "name": "YTMusicUltimate",
+    "version": "6.51.1",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/nsa5qledj4nt"
+  },
+  {
+    "bundleID": "com.vk.vkclient",
+    "name": "VKReborn",
+    "version": "8.77",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/i3g896t8i9pe"
+  },
+  {
+    "bundleID": "com.facebook.Facebook",
+    "name": "FacebookWolf",
+    "version": "462.0.0",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/eu7a2dxvym2s"
+  },
+  {
+    "bundleID": "com.spotify.client",
+    "name": "EeveeSpotify",
+    "version": "8.9.36",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/mbh5qrb8i124"
+  },
+  {
+    "bundleID": "com.burbn.instagram",
+    "name": "InstaMulti",
+    "version": "329.0.6",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/ahlzj9yflr6h"
+  },
+  {
+    "bundleID": "com.burbn.instagram",
+    "name": "InstaMulti",
+    "version": "329.0.6",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/1odc4acl3pdc"
+  },
+  {
+    "bundleID": "com.spotify.client",
+    "name": "EeveeSpotify",
+    "version": "8.9.34",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/ujzx0nbq1dg0"
+  },
+  {
+    "bundleID": "com.google.ios.youtubemusic",
+    "name": "YTMusicUltimate",
+    "version": "6.50.2",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/6kgaqljs3rb1"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "YTLitePlus",
+    "version": "19.17.2",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/zt84jca3s4t4"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "uYouEnhanced",
+    "version": "19.17.2",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/zmyeab2wawvb"
+  },
+  {
+    "bundleID": "tv.twitch",
+    "name": "TwitchAdBlock",
+    "version": "19.3",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/go82t586unft"
+  },
+  {
+    "bundleID": "com.atebits.Tweetie2",
+    "name": "BHTwitter",
+    "version": "10.39",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/dczx1kl5e0st"
+  },
+  {
+    "bundleID": "com.spotify.client",
+    "name": "EeveeSpotify",
+    "version": "8.9.34",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/6ghx7ejvqhmn"
+  },
+  {
+    "bundleID": "com.microblink.PhotoMath",
+    "name": "PhotomathPlus",
+    "version": "8.36.0",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/94b0h5kq5py2"
+  },
+  {
+    "bundleID": "com.vk.vkclient",
+    "name": "VKReborn",
+    "version": "8.76.1",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/v8q03ghf38oe"
+  },
+  {
+    "bundleID": "pinterest",
+    "name": "PinNoAds",
+    "version": "12.15",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/ed1yw41r8f2k"
+  },
+  {
+    "bundleID": "com.vk.vkclient",
+    "name": "VKReborn",
+    "version": "8.76",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/j20w7erslgxb"
+  },
+  {
+    "bundleID": "com.google.ios.youtubemusic",
+    "name": "YTMusicUltimate",
+    "version": "6.49.3",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/0r9ppqb4oydk"
+  },
+  {
+    "bundleID": "com.endel.endel",
+    "name": "EndelLifetime",
+    "version": "4.41.90",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/r2mfq5mp4jzk"
+  },
+  {
+    "bundleID": "com.microblink.PhotoMath",
+    "name": "PhotomathPlus",
+    "version": "8.35.0",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/n0blxkw2l1v8"
+  },
+  {
+    "bundleID": "com.facebook.Facebook",
+    "name": "FacebookWolf",
+    "version": "461.0.3",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/t09416676uig"
+  },
+  {
+    "bundleID": "com.firecore.infuse",
+    "name": "InfusePlus",
+    "version": "7.7.4",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/r1f5560ycb8x"
+  },
+  {
+    "bundleID": "com.atebits.Tweetie2",
+    "name": "BHTwitter",
+    "version": "10.38",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/vanrkrgsr8ml"
+  },
+  {
+    "bundleID": "com.spotify.client",
+    "name": "EeveeSpotify",
+    "version": "8.9.32",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/3lpecwocer4v"
+  },
+  {
+    "bundleID": "com.burbn.instagram",
+    "name": "InstaMulti",
+    "version": "328.1.3",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/10rc01uz5rx6"
+  },
+  {
+    "bundleID": "tv.twitch",
+    "name": "TwitchAdBlock",
+    "version": "19.2",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/cpeg6qztt4n1"
+  },
+  {
+    "bundleID": "jp.ne.ibis.ibisPaintX",
+    "name": "ibisPaintPrime",
+    "version": "12.0.5",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/bm20h2eiv8iv"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "YTLitePlus",
+    "version": "19.16.3",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/7vu669nx9hze"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "uYouEnhanced",
+    "version": "19.16.3",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/thuj2ft49z9g"
+  },
+  {
+    "bundleID": "com.vk.vkclient",
+    "name": "VKReborn",
+    "version": "8.75",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/3eu8i2q32yds"
+  },
+  {
+    "bundleID": "com.spotify.client",
+    "name": "EeveeSpotify",
+    "version": "8.9.32",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/ryna53copwka"
+  },
+  {
+    "bundleID": "com.burbn.instagram",
+    "name": "InstaMulti",
+    "version": "327.1.6",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/e7qard6nujdw"
+  },
+  {
+    "bundleID": "com.google.ios.youtubemusic",
+    "name": "YTMusicUltimate",
+    "version": "6.48.3",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/wxtmwqw1wbd4"
+  },
+  {
+    "bundleID": "tv.twitch",
+    "name": "TwitchAdBlock",
+    "version": "19.1.2",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/j1on8x8eqeen"
+  },
+  {
+    "bundleID": "com.christianselig.Apollo",
+    "name": "ApolloICAPI",
+    "version": "1.15.11",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/vp3j1avj1drz"
+  },
+  {
+    "bundleID": "com.spotify.client",
+    "name": "Spotilife",
+    "version": "8.9.32",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/ek8vcl659o5o"
+  },
+  {
+    "bundleID": "com.facebook.Facebook",
+    "name": "FacebookWolf",
+    "version": "460.0.0",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/98of39u5qaef"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "YTLitePlus",
+    "version": "19.15.1",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/ko5g4n7e0ow9"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "uYouEnhanced",
+    "version": "19.15.1",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/go5n5oepy08q"
+  },
+  {
+    "bundleID": "com.RayanKhan.APNS-Demo",
+    "name": "APNS-Demo",
+    "version": "1.00",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/xu9rlddqlxsw"
+  },
+  {
+    "bundleID": "com.atebits.Tweetie2",
+    "name": "BHTwitter",
+    "version": "10.37",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/uy3witolmo59"
+  },
+  {
+    "bundleID": "com.spotify.client",
+    "name": "Sposilife",
+    "version": "8.6.42",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/1sjh0xwk6sh5"
+  },
+  {
+    "bundleID": "tv.twitch",
+    "name": "TwitchAdBlock",
+    "version": "19.1",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/5ezf70j8u0r7"
+  },
+  {
+    "bundleID": "com.burbn.instagram",
+    "name": "InstaMulti",
+    "version": "327.1.6",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/i000xrp5flnm"
+  },
+  {
+    "bundleID": "com.google.ios.youtubemusic",
+    "name": "YTMusicUltimate",
+    "version": "6.48.2",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/gyy5vhpgjbpt"
+  },
+  {
+    "bundleID": "com.vk.vkclient",
+    "name": "VKReborn",
+    "version": "8.74.1",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/qii27x2rpt4w"
+  },
+  {
+    "bundleID": "com.burbn.instagram",
+    "name": "InstaMulti",
+    "version": "327.0.6",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/zbv9ohdp7ty5"
+  },
+  {
+    "bundleID": "com.kobaltlab.HashPhotos",
+    "name": "HashPhotosPro",
+    "version": "5.5.6",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/2nbatm48d2wa"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "uYouEnhanced",
+    "version": "19.14.3",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/gnpe3k7uwjx4"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "YTLitePlus",
+    "version": "19.14.3",
+    "itunesLookup": "",
+    "link": "https://download.starfiles.co/n3pa4kt9k90e"
+  }
+]

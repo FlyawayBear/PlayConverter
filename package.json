@@ -1,0 +1,17 @@
+{
+  "name": "repo-converter",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "fetch": "node utils/export.js"
+  },
+  "keywords": [],
+  "author": "FlyawayBear",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^2.6.1"
+  }
+}

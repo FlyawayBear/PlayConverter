@@ -1,0 +1,58 @@
+[
+  {
+    "bundleID": "science.xnu.undecimus",
+    "name": "Unc0ver",
+    "version": "8.0.2",
+    "itunesLookup": "",
+    "link": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa"
+  },
+  {
+    "bundleID": "com.electrateam.chimera",
+    "name": "Chimera",
+    "version": "1.6.4",
+    "itunesLookup": "",
+    "link": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.4-12.2-12.5.ipa"
+  },
+  {
+    "bundleID": "com.louisanslow.record",
+    "name": "Rewound",
+    "version": "2019.7",
+    "itunesLookup": "",
+    "link": "https://github.com/Randomblock1/randomsource/releases/download/assets/Rewound.ipa"
+  },
+  {
+    "bundleID": "com.google.ios.youtube",
+    "name": "YouTube Reborn",
+    "version": "16.19.6",
+    "itunesLookup": "",
+    "link": "https://github.com/Randomblock1/altstore/releases/download/assets/YouTube_v16.19.6_Reborn_v2.1.2.7.ipa"
+  },
+  {
+    "bundleID": "com.burbn.instagram",
+    "name": "Instagram++",
+    "version": "177.0",
+    "itunesLookup": "",
+    "link": "https://github.com/Randomblock1/altstore/releases/download/assets/Instagram_v177.0_Rocket_v3.7.18.ipa"
+  },
+  {
+    "bundleID": "org.xbmc.kodi-ios",
+    "name": "Kodi",
+    "version": "19.4",
+    "itunesLookup": "",
+    "link": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodi_v19.4.ipa"
+  },
+  {
+    "bundleID": "com.libretro.dist.ios.RetroArch",
+    "name": "RetroArch",
+    "version": "1.10.1",
+    "itunesLookup": "",
+    "link": "https://github.com/Randomblock1/randomsource/releases/download/assets/RetroArch_v1.10.1.ipa"
+  },
+  {
+    "bundleID": "org.ppsspp.ppsspp",
+    "name": "PPSSPP Stable",
+    "version": "1.12.3",
+    "itunesLookup": "",
+    "link": "https://github.com/Randomblock1/altstore/releases/download/assets/PPSSPP_v1.12.3-759-g5a6bf8b43.ipa"
+  }
+]

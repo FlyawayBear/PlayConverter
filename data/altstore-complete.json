@@ -1,0 +1,42 @@
+[
+  {
+    "bundleID": "com.rileytestut.AltStore",
+    "name": "AltStore",
+    "itunesLookup": ""
+  },
+  {
+    "bundleID": "com.rileytestut.AltStore.Beta",
+    "name": "AltStore (Beta)",
+    "itunesLookup": ""
+  },
+  {
+    "bundleID": "com.rileytestut.Delta",
+    "name": "Delta",
+    "itunesLookup": ""
+  },
+  {
+    "bundleID": "com.rileytestut.Delta.Beta",
+    "name": "Delta (Beta)",
+    "itunesLookup": ""
+  },
+  {
+    "bundleID": "com.rileytestut.Clip",
+    "name": "Clip",
+    "itunesLookup": ""
+  },
+  {
+    "bundleID": "com.rileytestut.Clip.Beta",
+    "name": "Clip (Beta)",
+    "itunesLookup": ""
+  },
+  {
+    "bundleID": "com.rileytestut.AltStore.Alpha",
+    "name": "AltStore (Alpha)",
+    "itunesLookup": ""
+  },
+  {
+    "bundleID": "com.rileytestut.Delta.Alpha",
+    "name": "Delta (Alpha)",
+    "itunesLookup": ""
+  }
+]

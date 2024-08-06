@@ -1,0 +1,62 @@
+[
+    {
+        "url": "https://repo.yippee.rip/",
+        "file": "data/zxcvbn.json",
+        "endpoint": "/zxcvbn",
+        "updateInterval": 3600000
+    },
+    {
+        "url": "https://swaggy.grr.ovh/repo.json",
+        "file": "data/swaggy.json",
+        "endpoint": "/swaggy",
+        "updateInterval": 3600000
+    },
+    {
+        "url": "https://wuxu1.github.io/wuxu-complete-plus.json",
+        "file": "data/wuxu-complete-plus.json",
+        "endpoint": "/wuxu-complete-plus",
+        "updateInterval": 3600000
+    },
+    {
+        "url": "https://wuxu1.github.io/wuxu-complete.json",
+        "file": "data/wuxu-complete.json",
+        "endpoint": "/wuxu-complete",
+        "updateInterval": 3600000
+    },
+    {
+        "url": "https://qnblackcat.github.io/AltStore/apps.json",
+        "file": "data/qn_.json",
+        "endpoint": "/qn_",
+        "updateInterval": 3600000
+    },
+    {
+        "url": "https://randomblock1.com/altstore/apps.json",
+        "file": "data/randomsource.json",
+        "endpoint": "/randomsource",
+        "updateInterval": 3600000
+    },
+    {
+        "url": "https://bit.ly/Altstore-complete",
+        "file": "data/altstore-complete.json",
+        "endpoint": "/altstore-complete",
+        "updateInterval": 3600000
+    },
+    {
+        "url": "https://hann8n.github.io/JackCracks/MovieboxPro.json",
+        "file": "data/movieboxpro.json",
+        "endpoint": "/movieboxpro",
+        "updateInterval": 3600000
+    },
+    {
+        "url": "https://repo.apptesters.org/",
+        "file": "data/apptesters.json",
+        "endpoint": "/apptesters",
+        "updateInterval": 3600000
+    },
+    {
+        "url": "https://ipa.cypwn.xyz/cypwn.json",
+        "file": "data/cypwn.json",
+        "endpoint": "/cypwn",
+        "updateInterval": 3600000
+    }
+]
